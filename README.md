@@ -1,6 +1,6 @@
 
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/serdukow/aiogram_test/blob/master/LICENSE.md)
 [![checks](https://img.shields.io/github/checks-status/serdukow/aiogram_test/master)](https://opensource.org/licenses/)
 
 
